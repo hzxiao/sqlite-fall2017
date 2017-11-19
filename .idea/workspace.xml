@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="SQLite_VTable" targetName="ExperimentalCoverage" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalMemCheck" />
+      <config projectName="SQLite_VTable" targetName="b_plus_tree_concurrent_test" />
+      <config projectName="SQLite_VTable" targetName="sqlite3_shell" />
+      <config projectName="SQLite_VTable" targetName="NightlyBuild" />
+      <config projectName="SQLite_VTable" targetName="lru_replacer_test" />
+      <config projectName="SQLite_VTable" targetName="virtual_table_test" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalUpdate" />
+      <config projectName="SQLite_VTable" targetName="check" />
+      <config projectName="SQLite_VTable" targetName="extendible_hash_test" />
+      <config projectName="SQLite_VTable" targetName="NightlyUpdate" />
+      <config projectName="SQLite_VTable" targetName="ContinuousStart" />
+      <config projectName="SQLite_VTable" targetName="rwmutex_test" />
+      <config projectName="SQLite_VTable" targetName="tuple_test" />
+      <config projectName="SQLite_VTable" targetName="ContinuousConfigure" />
+      <config projectName="SQLite_VTable" targetName="NightlyStart" />
+      <config projectName="SQLite_VTable" targetName="ContinuousSubmit" />
+      <config projectName="SQLite_VTable" targetName="Continuous" />
+      <config projectName="SQLite_VTable" targetName="NightlyMemoryCheck" />
+      <config projectName="SQLite_VTable" targetName="b_plus_tree_test" />
+      <config projectName="SQLite_VTable" targetName="gtest" />
+      <config projectName="SQLite_VTable" targetName="ContinuousTest" />
+      <config projectName="SQLite_VTable" targetName="NightlyCoverage" />
+      <config projectName="SQLite_VTable" targetName="b_plus_tree_print_test" />
+      <config projectName="SQLite_VTable" targetName="buffer_pool_manager_test" />
+      <config projectName="SQLite_VTable" targetName="NightlyMemCheck" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalBuild" />
+      <config projectName="SQLite_VTable" targetName="ContinuousUpdate" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalConfigure" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalStart" />
+      <config projectName="SQLite_VTable" targetName="ContinuousMemCheck" />
+      <config projectName="SQLite_VTable" targetName="sqlite3" />
+      <config projectName="SQLite_VTable" targetName="type_test" />
+      <config projectName="SQLite_VTable" targetName="vtable" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalTest" />
+      <config projectName="SQLite_VTable" targetName="Nightly" />
+      <config projectName="SQLite_VTable" targetName="lock_manager_test" />
+      <config projectName="SQLite_VTable" targetName="NightlySubmit" />
+      <config projectName="SQLite_VTable" targetName="ContinuousBuild" />
+      <config projectName="SQLite_VTable" targetName="ContinuousCoverage" />
+      <config projectName="SQLite_VTable" targetName="Experimental" />
+      <config projectName="SQLite_VTable" targetName="ExperimentalSubmit" />
+      <config projectName="SQLite_VTable" targetName="NightlyTest" />
+      <config projectName="SQLite_VTable" targetName="header_page_test" />
+      <config projectName="SQLite_VTable" targetName="log_manager_test" />
+      <config projectName="SQLite_VTable" targetName="NightlyConfigure" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d6d03fd-fb5f-417d-a734-c55a9a590719" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logging/common.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_manager.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logging/log_manager.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extendible_hash.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hash/extendible_hash.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lru_replacer.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/buffer/lru_replacer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buffer_pool_manager.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/buffer/buffer_pool_manager.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lock_manager.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency/lock_manager.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shell.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sqlite/shell.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6396">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sqlite3.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sqlite/sqlite3.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1798">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build/Makefile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="buffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQLite_VTable" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="sqlite-fall2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ContinuousBuild">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousBuild">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousConfigure">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousCoverage">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousMemCheck">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousStart">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousSubmit">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousTest">
+      <envs />
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ContinuousUpdate">
+      <envs />
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalBuild">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalConfigure">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalCoverage">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalMemCheck">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalStart">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalSubmit">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalTest">
+      <envs />
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="ExperimentalUpdate">
+      <envs />
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyBuild">
+      <envs />
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyConfigure">
+      <envs />
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyCoverage">
+      <envs />
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyMemCheck">
+      <envs />
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyMemoryCheck">
+      <envs />
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyStart">
+      <envs />
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlySubmit">
+      <envs />
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyTest">
+      <envs />
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="NightlyUpdate">
+      <envs />
+    </configuration>
+    <configuration name="b_plus_tree_concurrent_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="b_plus_tree_concurrent_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="b_plus_tree_concurrent_test">
+      <envs />
+    </configuration>
+    <configuration name="b_plus_tree_print_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="b_plus_tree_print_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="b_plus_tree_print_test">
+      <envs />
+    </configuration>
+    <configuration name="b_plus_tree_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="b_plus_tree_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="b_plus_tree_test">
+      <envs />
+    </configuration>
+    <configuration name="buffer_pool_manager_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="buffer_pool_manager_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="buffer_pool_manager_test">
+      <envs />
+    </configuration>
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="extendible_hash_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="extendible_hash_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="extendible_hash_test">
+      <envs />
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="header_page_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="header_page_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="header_page_test">
+      <envs />
+    </configuration>
+    <configuration name="lock_manager_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="lock_manager_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="lock_manager_test">
+      <envs />
+    </configuration>
+    <configuration name="log_manager_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="log_manager_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="log_manager_test">
+      <envs />
+    </configuration>
+    <configuration name="lru_replacer_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="lru_replacer_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="lru_replacer_test">
+      <envs />
+    </configuration>
+    <configuration name="rwmutex_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="rwmutex_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="rwmutex_test">
+      <envs />
+    </configuration>
+    <configuration name="sqlite3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="sqlite3" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <configuration name="sqlite3_shell" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="sqlite3_shell" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="sqlite3_shell">
+      <envs />
+    </configuration>
+    <configuration name="tuple_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="tuple_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="tuple_test">
+      <envs />
+    </configuration>
+    <configuration name="type_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="type_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="type_test">
+      <envs />
+    </configuration>
+    <configuration name="virtual_table_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="virtual_table_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SQLite_VTable" RUN_TARGET_NAME="virtual_table_test">
+      <envs />
+    </configuration>
+    <configuration name="vtable" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SQLite_VTable" TARGET_NAME="vtable" CONFIG_NAME="Debug">
+      <envs />
+    </configuration>
+    <list size="47">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Continuous" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ContinuousBuild" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ContinuousConfigure" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ContinuousCoverage" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ContinuousMemCheck" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ContinuousStart" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ContinuousSubmit" />
+      <item index="8" class="java.lang.String" itemvalue="Application.ContinuousTest" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ContinuousUpdate" />
+      <item index="10" class="java.lang.String" itemvalue="Application.Experimental" />
+      <item index="11" class="java.lang.String" itemvalue="Application.ExperimentalBuild" />
+      <item index="12" class="java.lang.String" itemvalue="Application.ExperimentalConfigure" />
+      <item index="13" class="java.lang.String" itemvalue="Application.ExperimentalCoverage" />
+      <item index="14" class="java.lang.String" itemvalue="Application.ExperimentalMemCheck" />
+      <item index="15" class="java.lang.String" itemvalue="Application.ExperimentalStart" />
+      <item index="16" class="java.lang.String" itemvalue="Application.ExperimentalSubmit" />
+      <item index="17" class="java.lang.String" itemvalue="Application.ExperimentalTest" />
+      <item index="18" class="java.lang.String" itemvalue="Application.ExperimentalUpdate" />
+      <item index="19" class="java.lang.String" itemvalue="Application.Nightly" />
+      <item index="20" class="java.lang.String" itemvalue="Application.NightlyBuild" />
+      <item index="21" class="java.lang.String" itemvalue="Application.NightlyConfigure" />
+      <item index="22" class="java.lang.String" itemvalue="Application.NightlyCoverage" />
+      <item index="23" class="java.lang.String" itemvalue="Application.NightlyMemCheck" />
+      <item index="24" class="java.lang.String" itemvalue="Application.NightlyMemoryCheck" />
+      <item index="25" class="java.lang.String" itemvalue="Application.NightlyStart" />
+      <item index="26" class="java.lang.String" itemvalue="Application.NightlySubmit" />
+      <item index="27" class="java.lang.String" itemvalue="Application.NightlyTest" />
+      <item index="28" class="java.lang.String" itemvalue="Application.NightlyUpdate" />
+      <item index="29" class="java.lang.String" itemvalue="Application.sqlite3" />
+      <item index="30" class="java.lang.String" itemvalue="Application.sqlite3_shell" />
+      <item index="31" class="java.lang.String" itemvalue="Application.vtable" />
+      <item index="32" class="java.lang.String" itemvalue="Application.b_plus_tree_concurrent_test" />
+      <item index="33" class="java.lang.String" itemvalue="Application.b_plus_tree_print_test" />
+      <item index="34" class="java.lang.String" itemvalue="Application.b_plus_tree_test" />
+      <item index="35" class="java.lang.String" itemvalue="Application.buffer_pool_manager_test" />
+      <item index="36" class="java.lang.String" itemvalue="Application.check" />
+      <item index="37" class="java.lang.String" itemvalue="Application.extendible_hash_test" />
+      <item index="38" class="java.lang.String" itemvalue="Application.gtest" />
+      <item index="39" class="java.lang.String" itemvalue="Application.header_page_test" />
+      <item index="40" class="java.lang.String" itemvalue="Application.lock_manager_test" />
+      <item index="41" class="java.lang.String" itemvalue="Application.log_manager_test" />
+      <item index="42" class="java.lang.String" itemvalue="Application.lru_replacer_test" />
+      <item index="43" class="java.lang.String" itemvalue="Application.rwmutex_test" />
+      <item index="44" class="java.lang.String" itemvalue="Application.tuple_test" />
+      <item index="45" class="java.lang.String" itemvalue="Application.type_test" />
+      <item index="46" class="java.lang.String" itemvalue="Application.virtual_table_test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6d03fd-fb5f-417d-a734-c55a9a590719" name="Default" comment="" />
+      <created>1511085900096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511085900096</updated>
+      <workItem from="1511085901372" duration="2273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2273000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VERSION.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/page/table_page.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-271">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="60" lean-forward="false" selection-start-line="1" selection-start-column="60" selection-end-line="1" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1086">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffer/lru_replacer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buffer/buffer_pool_manager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/include/concurrency/transaction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-687">
+          <caret line="27" column="4" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency/lock_manager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sqlite/shell.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6396">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sqlite/sqlite3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1798">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logging/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logging/log_manager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hash/extendible_hash.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
